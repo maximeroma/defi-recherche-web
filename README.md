@@ -119,3 +119,13 @@ il est le fondateur du projet GNU
 ceux sont des mots-clés qui te permettent de faire une recherche directement dans le site depuis le moteur de recherche DuckDuckGo.
 
 [source](http://dcorbille.free.fr/?p=2873)
+
+
+**Qui est Marissa Mayer ?**
+
+elle était vice-présidente de google avant de devenir pdg de Yahoo!
+
+[source](http://www.eurecia.com/blog/cv-parfait-marissa-mayer-passe-a-loupe/)
+
+
+
