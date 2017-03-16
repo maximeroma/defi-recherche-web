@@ -3,6 +3,7 @@
 
 **Par qui, quand, pourquoi et où a été inventé Internet ?**
 
+
 **Quelle est la différence entre le Web et Internet?**
 
 Le Web est juste une des façons dont l' information peut être diffusée sur Internet. L'Internet, et non pas sur le Web, est également utilisé pour e - mail , qui repose sur SMTP , Usenet groupes de nouvelles, la messagerie instantanée et FTP . Ainsi , le Web est juste une partie de l'Internet, mais une grande partie, mais les deux termes ne sont pas synonymes et ne doit pas être confondu.
@@ -11,17 +12,15 @@ Le Web est juste une des façons dont l' information peut être diffusée sur In
 
 
 **Qu’est-ce que cela :**
- 
 * 8.8.8.8
 * 192.168.0.1
 * 255.255.255.0
 * 127.0.0.1
 
-
-
 Votre adresse IP est un identifiant unique que les sites Internet utilisent pour vous localiser et suivre votre navigation en ligne.
 
 [source](https://www.avira.com/fr/support-for-home-knowledgebase-detail/kbid/1822)
+
 
 **Que sont le copyright et le copyleft ?**
 
@@ -34,11 +33,18 @@ copyleft : Le copyleft est une méthode générale pour rendre libre un programm
 
 [source](https://www.gnu.org/licenses/copyleft.fr.html)
 
+
 **Que sont les Creatives Commons ?**
 
 une solution alternative légale aux personnes souhaitant libérer leurs œuvres des droits de propriété intellectuelle standard de leur pays, jugés trop restrictifs.
 
 [source](https://fr.wikipedia.org/wiki/Creative_Commons)
 
+
+**Qui est Grace Hopper ?**
+
+elle a découvert le premier bug informatique causé par un insecte (bug en anglais) dans la machine 
+
+[source](https://www.sciencesetavenir.fr/high-tech/google-celebre-grace-hopper-decouvreuse-du-premier-vrai-bug-informatique_35478)
 
 
