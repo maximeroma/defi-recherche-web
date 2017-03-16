@@ -99,3 +99,9 @@ GNU est un système d'exploitation constitué de logiciel libre – c'est-à-dir
 
 [source](https://www.gnu.org/home.fr.html)
 
+
+**Quelles sont les différences entre le Http et le Https ?**
+
+le protocole https est un protocole http plus securisé.
+
+[source](http://www.culture-informatique.net/cest-quoi-difference-http-https/)
