@@ -85,9 +85,17 @@ evenement:
 [frenchTechToulouse](http://www.frenchtechtoulouse.com/)
 [tedX](http://www.tedxtoulouse.com/)
 
+
 **Qui est Aaron Swartz ?**
 
 il a participé au lancement de différentes initiatives (Demande Progress, Creative Commons, Reddit...) et au développement informatique (format RSS, langage Markdown,...). Il a fait des actions particulières (JSTOR).
 
 [source](https://www.system-linux.eu/index.php?post/2013/01/14/Suicide-d%E2%80%99Aaron-Swartz-!2)
+
+
+**Qu’est-ce que le projet GNU ?**
+
+GNU est un système d'exploitation constitué de logiciel libre – c'est-à-dire qu'il respecte la liberté des utilisateurs. Le développement de GNU a rendu possible l'utilisation d'un ordinateur sans logiciel susceptible de bafouer votre liberté.
+
+[source](https://www.gnu.org/home.fr.html)
 
