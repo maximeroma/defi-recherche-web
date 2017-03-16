@@ -36,7 +36,9 @@ copyleft : Le copyleft est une méthode générale pour rendre libre un programm
 
 **Que sont les Creatives Commons ?**
 
-une solution alternative légale aux personnes souhaitant libérer leurs œuvres des droits de propriété intellectuelle standard de leur pays, jugés trop restrictifs1
+une solution alternative légale aux personnes souhaitant libérer leurs œuvres des droits de propriété intellectuelle standard de leur pays, jugés trop restrictifs.
+
+[source](https://fr.wikipedia.org/wiki/Creative_Commons)
 
 
 
