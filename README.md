@@ -61,3 +61,11 @@ il est le cofondateur d'Apple avec Steve Jobs. Il a participé à la création d
 
 [source](http://www.francetvinfo.fr/replay-radio/ils-ont-fait-le-web/steve-wozniak_1787897.html)
 
+
+**D'où vient l'expression "bug informatique" ?**
+
+bug en anglais signifie “insecte”.  Ce nom vient du tout premier incident informatique qui a été causé par un papillon le 9 septembre 1947.
+
+[source](http://www.chosesasavoir.com/pourquoi-dit-on-un-bug/) 
+
+
