@@ -54,3 +54,10 @@ qwant est un moteur de recherche français qui assure ne pas conserver les donn�
 
 [source](http://www.latribune.fr/opinions/blogs/homo-numericus/qwant-petit-moteur-deviendra-grand-644485.html)
 
+
+**Qui est Steve Wozniak ?**
+
+il est le cofondateur d'Apple avec Steve Jobs. Il a participé à la création de l'Apple1 dans le garage de ce dernier.
+
+[source](http://www.francetvinfo.fr/replay-radio/ils-ont-fait-le-web/steve-wozniak_1787897.html)
+
