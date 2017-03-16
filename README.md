@@ -128,4 +128,9 @@ elle était vice-présidente de google avant de devenir pdg de Yahoo!
 [source](http://www.eurecia.com/blog/cv-parfait-marissa-mayer-passe-a-loupe/)
 
 
+**Qu’est-ce qu’une attaque “brute force” ?**
+
+l'attaque force brute consiste a tester toutes les combinaison de chiffre et de lettre pour trouver une mot de passe 
+
+[source](https://openclassrooms.com/courses/eviter-les-attaques-par-force-brute)
 
