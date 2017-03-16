@@ -9,11 +9,13 @@ Le Web est juste une des façons dont l' information peut être diffusée sur In
 [source](https://fzhesith.blogspot.fr/2016/10/webinternet-quelle-est-la-difference.html)
 
 
-##*Qu’est-ce que cela :
-##	*8.8.8.8
-##	*192.168.0.1
-##	*255.255.255.0
-##	*127.0.0.1
+##Qu’est-ce que cela :
+<ul> 
+	<li>8.8.8.8</li>
+	<li>192.168.0.1</li>
+	<li>255.255.255.0</li>
+	<li>127.0.0.1</li>
+</ul>
 
 
 Votre adresse IP est un identifiant unique que les sites Internet utilisent pour vous localiser et suivre votre navigation en ligne.
@@ -31,6 +33,7 @@ Votre adresse IP est un identifiant unique que les sites Internet utilisent pour
 
 [source](https://www.gnu.org/licenses/copyleft.fr.html)
 
+##Que sont les Creatives Commons ?
 
 
 
