@@ -72,10 +72,16 @@ bug en anglais signifie “insecte”.  Ce nom vient du tout premier incident in
 **Quels sont les communautés de développeurs à Toulouse et quels sont leurs prochains évènements ?**
 
 communauté:
-[la cantine](http://lacantine-toulouse.org/) 
+[laCantine](http://lacantine-toulouse.org/) 
 
 evenement:
-[aperoweb](http://toulouse.aperoweb.fr/)
-[ToulouseJS](https://makina-corpus.com/blog/societe/2016/les-evenements-de-lannee-2015)
-[Devfest](https://devfesttoulouse.fr/)
+[aperoWeb](http://toulouse.aperoweb.fr/)
+[toulouseJS](https://makina-corpus.com/blog/societe/2016/les-evenements-de-lannee-2015)
+[devFest](https://devfesttoulouse.fr/)
+
+
+**Quels sont les prochains rendez-vous tech de Toulouse ?**
+
+[frenchTechToulouse](http://www.frenchtechtoulouse.com/)
+[tedX](http://www.tedxtoulouse.com/)
 
