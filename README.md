@@ -113,3 +113,9 @@ il est le fondateur du projet GNU
 
 [source]([https://fr.wikipedia.org/wiki/Richard_Stallman)
 
+
+**Comment fonctionnent les bang de Duck Duck Go ?**
+
+ceux sont des mots-clés qui te permettent de faire une recherche directement dans le site depuis le moteur de recherche DuckDuckGo.
+
+[source](http://dcorbille.free.fr/?p=2873)
