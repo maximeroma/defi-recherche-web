@@ -43,8 +43,14 @@ une solution alternative légale aux personnes souhaitant libérer leurs œuvres
 
 **Qui est Grace Hopper ?**
 
-elle a découvert le premier bug informatique causé par un insecte (bug en anglais) dans la machine 
+elle a découvert le premier bug informatique causé par un insecte (bug en anglais) dans la machine.
 
 [source](https://www.sciencesetavenir.fr/high-tech/google-celebre-grace-hopper-decouvreuse-du-premier-vrai-bug-informatique_35478)
 
+
+**Qu'est-ce que Qwant ?**
+
+qwant est un moteur de recherche français qui assure ne pas conserver les données des utilisateurs pour le respect de la vie privée.
+
+[source](http://www.latribune.fr/opinions/blogs/homo-numericus/qwant-petit-moteur-deviendra-grand-644485.html)
 
