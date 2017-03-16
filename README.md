@@ -8,7 +8,9 @@ Par qui, quand, pourquoi et où a été inventé Internet ?
 
 Quelle est la différence entre le Web et Internet?
 
-Le Web est juste une des façons dont l' information peut être diffusée sur Internet. L'Internet, et non pas sur le Web, est également utilisé pour e - mail , qui repose sur SMTP , Usenet groupes de nouvelles, la messagerie instantanée et FTP . Ainsi , le Web est juste une partie de l'Internet, mais une grande partie, mais les deux termes ne sont pas synonymes et ne doit pas être confondu.
+Le Web est juste une des façons dont l' information peut être diffusée sur Internet. L'Internet, et non pas sur le Web, est également utilisé pour e - mail , qui 
+repose sur SMTP , Usenet groupes de nouvelles, la messagerie instantanée et FTP .
+Ainsi , le Web est juste une partie de l'Internet, mais une grande partie, mais les deux termes ne sont pas synonymes et ne doit pas être confondu.
 
 See:https://fzhesith.blogspot.fr/2016/10/webinternet-quelle-est-la-difference.html
 
@@ -19,14 +21,17 @@ Qu’est-ce que cela :
 			255.255.255.0
 			127.0.0.1
 
-Votre adresse IP est un identifiant unique que les sites Internet utilisent pour vous localiser et suivre votre navigation en ligne.
+Votre adresse IP est un identifiant unique que les sites Internet utilisent 
+pour vous localiser et suivre votre navigation en ligne.
 
 See: https://www.avira.com/fr/support-for-home-knowledgebase-detail/kbid/1822
 
 
 Que sont le copyright et le copyleft ?
 
-			Copyright : Le droit d’auteur est une forme de protection garantie par la loi, des ouvrages originaux d’un auteur, pris dans une forme tangible d’expression.
+			Copyright : Le droit d’auteur est une forme de protection garantie 
+			par la loi, des ouvrages originaux d’un auteur, pris dans une 
+			forme tangible d’expression.
 			Le droit d’auteur couvre les ouvrages publiés, tout comme ceux non publiés.
 
 	See: https://www.eucopyright.com/fr/qu-est-ce-que-c-est-le-droit-d-auteur
