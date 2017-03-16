@@ -1,4 +1,8 @@
-#defi-recherche-web
+<h1>defi-recherche-web<h1>
+
+<script type="text/javascript">
+	alert(Coucou!)
+</script>
 
 ##Par qui, quand, pourquoi et où a été inventé Internet ?
 
