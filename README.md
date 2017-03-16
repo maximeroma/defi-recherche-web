@@ -85,3 +85,9 @@ evenement:
 [frenchTechToulouse](http://www.frenchtechtoulouse.com/)
 [tedX](http://www.tedxtoulouse.com/)
 
+**Qui est Aaron Swartz ?**
+
+il a participé au lancement de différentes initiatives (Demande Progress, Creative Commons, Reddit...) et au développement informatique (format RSS, langage Markdown,...). Il a fait des actions particulières (JSTOR).
+
+[source](https://www.system-linux.eu/index.php?post/2013/01/14/Suicide-d%E2%80%99Aaron-Swartz-!2)
+
