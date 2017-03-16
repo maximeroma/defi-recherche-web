@@ -1,8 +1,5 @@
 <h1>defi-recherche-web<h1>
 
-<script type="text/javascript">
-	alert(Coucou!)
-</script>
 
 ##Par qui, quand, pourquoi et où a été inventé Internet ?
 
@@ -14,12 +11,12 @@ Le Web est juste une des façons dont l' information peut être diffusée sur In
 
 
 ##Qu’est-ce que cela :
-<ul> 
-	<li>8.8.8.8</li>
-	<li>192.168.0.1</li>
-	<li>255.255.255.0</li>
-	<li>127.0.0.1</li>
-</ul>
+ 
+* 8.8.8.8
+* 192.168.0.1
+* 255.255.255.0
+* 127.0.0.1
+
 
 
 Votre adresse IP est un identifiant unique que les sites Internet utilisent pour vous localiser et suivre votre navigation en ligne.
