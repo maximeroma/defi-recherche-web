@@ -69,3 +69,13 @@ bug en anglais signifie “insecte”.  Ce nom vient du tout premier incident in
 [source](http://www.chosesasavoir.com/pourquoi-dit-on-un-bug/) 
 
 
+**Quels sont les communautés de développeurs à Toulouse et quels sont leurs prochains évènements ?**
+
+communauté:
+[la cantine](http://lacantine-toulouse.org/) 
+
+evenement:
+[aperoweb](http://toulouse.aperoweb.fr/)
+[ToulouseJS](https://makina-corpus.com/blog/societe/2016/les-evenements-de-lannee-2015)
+[Devfest](https://devfesttoulouse.fr/)
+
