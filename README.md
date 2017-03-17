@@ -146,5 +146,8 @@ See: https://openclassrooms.com/courses/eviter-les-attaques-par-force-brute
 Qui est Linus Torvalds ?
  Quels sont ses plus grands développements ?
 
- 
+ Il est un informaticien américano-finlandais.
+ Il a créé le noyau de Linux en 1991 et il contribue toujours à son développement.
+
+ See: https://fr.wikipedia.org/wiki/Linus_Torvalds
 
