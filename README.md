@@ -151,3 +151,9 @@ Qui est Linus Torvalds ?
 
  See: https://fr.wikipedia.org/wiki/Linus_Torvalds
 
+ Combien coûte un nom de domaine?
+
+Entre 48 euros HT et 300€ HT pour un nom de domaine avec 4 extensions + un hébergement.
+
+See: http://www.nddconline.org/31-combien-coute-un-nom-de-domaine
+
