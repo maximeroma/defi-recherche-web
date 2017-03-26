@@ -151,9 +151,19 @@ Qui est Linus Torvalds ?
 
  See: https://fr.wikipedia.org/wiki/Linus_Torvalds
 
- Combien coûte un nom de domaine?
+Combien coûte un nom de domaine?
 
 Entre 48 euros HT et 300€ HT pour un nom de domaine avec 4 extensions + un hébergement.
 
 See: http://www.nddconline.org/31-combien-coute-un-nom-de-domaine
 
+
+Quels sont les différents services d'emailing disponibles ?
+	Un client vous envoyer des emails automatiquement depuis son site web (contact, confirmation...), quel service allez-vous utiliser et pourquoi ?
+
+*Les plateformes email marketing en self-service.
+*Les plateformes email marketing proposant un accompagnement.
+*Les plateformes cross-canal et/ou de gestion de l'automatisation.
+*La majorité des plateformes possèdent un mode saas.
+
+See: http://www.badsender.com/2013/05/27/les-differents-types-de-plateformes-emailing/
